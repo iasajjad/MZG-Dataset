@@ -1,0 +1,10 @@
+Circuit 1st Excel file
+Main(aggregated) data Channel A like Ua Pa Qa
+water pump data Channel B like Ub Pb Qb
+Washing machine data Channel C like Uc Pc Qc
+
+Circuit 2nd Excel file
+Refrigerator data Channel A like Ua Pa Qa
+Iron data Channel B like Ub Pb Qb
+Oven data Channel C like Uc Pc Qc
+
